@@ -1,7 +1,6 @@
 # 📈 SADRIS-MBA — Business & Management
 
-> Part of the **SADRIS Faculty Hackathon** | [← Back to Main Repo](https://github.com/your-org/SADRIS)
-
+> Part of the **SADRIS Faculty Hackathon** | [← Back to Main Repo](https://github.com/Cambridge-Institute-of-Technology-CEP/SADRIS)
 **Mentor:** Dr. Yashaswini
 **Teams:** 1
 **Focus:** Business model innovation, commercialization strategy, funding roadmap, and sustainability planning for SADRIS
